@@ -1,0 +1,25 @@
+.card-holder {
+    max-width: 220px;
+    max-height: 260px;
+    padding: 37px 26px 22px 26px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.item-title {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 14px 0 14px 0;
+    text-align: right;
+    
+}
+
+.type-coffee {
+    font-size: 14px;
+    text-align: right;
+
+}
+.item-price {
+    font-size: 14px;
+    text-align: right;
+}
