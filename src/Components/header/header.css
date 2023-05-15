@@ -1,0 +1,33 @@
+.App {
+    position: absolute;
+display: flex;
+z-index: 2;
+max-width: 1440px;
+}
+
+.App-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-logo {
+margin-top: 25px;
+margin-left: 150px;
+}
+.link-header {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 70%;
+    text-decoration: none;
+    margin-right: 40px;
+    margin-top: 50px;
+    
+
+}
+.link-header:hover {
+    color: darkgray;
+}
+
+.link-header :last-child {
+    margin-right: 0px;
+}

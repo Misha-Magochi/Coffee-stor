@@ -1,0 +1,31 @@
+
+.block {
+position: relative;
+max-width: 1440px;
+width: 100%;
+padding: 0;
+box-sizing: border-box;
+display: flex;
+
+}
+
+    
+
+
+.our {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    
+    
+}
+
+.our-title {
+    color: #fff;
+
+
+
+}
+.our-img {
+    max-width: 1440px;
+}

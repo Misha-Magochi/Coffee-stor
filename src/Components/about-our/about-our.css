@@ -1,0 +1,56 @@
+
+.title-about {
+    display: flex;
+    justify-content: center;
+}
+
+.about-our {
+    display: flex;
+    justify-content: center;
+    margin: 70px 0 0 0;
+}
+
+.img-block {
+    margin-right: 80px;
+}
+.coffee-block {
+    display: flex;
+    justify-content: center;
+}
+
+.coffee-swg {
+    margin:20px 25px 20px 25px;
+}
+
+.line {
+    display: flex;
+    color: black;
+    width: 60px;
+    border-bottom: solid 1px ;
+    margin-bottom: 35px;
+
+}
+
+.about-block {
+    
+    justify-content: center;
+   
+    max-width: 340px;
+    max-height: 350px;
+}
+
+.text-abaut {
+
+
+
+text-align: center;
+    
+}
+.line-b {
+    display: flex;
+    
+    color: black;
+    width: 240px;
+    border-bottom: solid 1px ;
+    margin: 50px auto;
+}
