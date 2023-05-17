@@ -7,7 +7,7 @@ const AppFilter = (props) => {
     { type: "Columbia", lable: "Columbia", di: 3 },
   ];
   const buttons = buttonsData.map(({ type, lable }) => {
-    /* const active = props.filter === name; */
+    
     return (
       <button
         type="button"
